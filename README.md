@@ -9,7 +9,7 @@ Ceci est le dépôt Git créé par sloes dans le cadre du TP 06 de SLAM.
 Ce dépôt Git contient plusieurs centaines de fichiers, répartis dans l'arborescence ci-dessous.
 
 ```bash
-[nom du dossier]
+git tp
 ├── Code Lyoko
 │   ├── Scripts
 │   │   ├── Saison 1
