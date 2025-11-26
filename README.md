@@ -2,7 +2,7 @@
 
 # Dépôt Git du TP 06
 
-Ceci est le dépôt Git créé par [votre nom] dans le cadre du TP 06 de SLAM.
+Ceci est le dépôt Git créé par sloes dans le cadre du TP 06 de SLAM.
 
 ## Arborescence
 
