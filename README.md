@@ -29,10 +29,6 @@ git tp
 ├── Emojis
 │   ├── Drapeaux
 │   └── Nourriture
-├── pages
-│   ├── home
-│   ├── app
-│   └── help
 ├── README.md (ce fichier)
 ```
 
